@@ -1,0 +1,44 @@
+ksshaskpass (0.5.3-1build2) precise; urgency=low
+
+  * Rebuild for the kdebase-runtime transition
+
+ -- Jonathan Thomas <echidnaman@kubuntu.org>  Thu, 29 Mar 2012 20:25:50 -0400
+
+ksshaskpass (0.5.3-1build1) maverick; urgency=low
+
+  * Rebuild upload to take advantage of the kdelibs5 split in 10.10
+
+ -- Jonathan Thomas <echidnaman@kubuntu.org>  Tue, 17 Aug 2010 11:13:45 -0400
+
+ksshaskpass (0.5.3-1) unstable; urgency=low
+
+  * New upstream release.
+    - Upload to unstable.
+  * Raise standards version to 3.8.3. No changes needed.
+  * Use dh v7 and minimal rules file:
+    - Build depend on debhelper 7.3 for cmake support.
+  * Switch package to dpkg-source format 3.0 (quilt).
+  * Add README.Debian.
+  * Update my email address.
+  * Depend on ${misc:Depends}.
+  * Override lintian warning 'desktop-command-not-in-package'.
+  * Remove unused postrm file.
+
+ -- Armin Berres <armin+debian@space-based.de>  Sat, 02 Jan 2010 00:01:55 +0100
+
+ksshaskpass (0.5.1-1) experimental; urgency=low
+
+  * New upstream release. Ported to KDE 4.
+  * Update build dependencies for KDE 4.
+  * Drop private cmake.mk.
+  * Build depend on and use pkg-kde-tools.
+  * Remove build dependency on quilt.
+  * Recommend kwalletmanager.
+
+ -- Armin Berres <armin+debian@space-based.de>  Sun, 30 Nov 2008 12:19:17 +0100
+
+ksshaskpass (0.4.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #413109)
+
+ -- Armin Berres <armin+debian@space-based.de>  Tue, 10 Jun 2008 23:40:01 +0200
