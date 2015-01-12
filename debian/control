@@ -1,9 +1,10 @@
 Source: ksshaskpass
 Section: utils
 Priority: optional
-Maintainer: Armin Berres <armin+debian@space-based.de>
-Build-Depends: debhelper (>= 7.3), kdelibs5-dev, cmake
-Standards-Version: 3.8.3
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+XSBC-Original-Maintainer: Armin Berres <armin+debian@space-based.de>
+Build-Depends: debhelper (>= 9), cmake, qtbase5-dev, extra-cmake-modules, libkf5wallet-dev, libkf5widgetsaddons-dev, libkf5coreaddons-dev, libkf5i18n-dev, pkg-kde-tools
+Standards-Version: 3.9.5
 Homepage: http://www.kde-apps.org/content/show.php/show.php?content=50971
 
 Package: ksshaskpass
@@ -12,4 +13,4 @@ Depends: ${shlibs:Depends}, ${misc:Depends}, openssh-client
 Recommends: kwalletmanager
 Provides: ssh-askpass
 Description: interactively prompt users for a passphrase for ssh-add
- A KDE 4 version of ssh-askpass with KWallet support.
+ A version of ssh-askpass with KWallet support.

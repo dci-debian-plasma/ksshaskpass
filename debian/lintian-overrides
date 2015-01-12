@@ -1,2 +1,2 @@
 # ksshaskpass is not called directly
-desktop-command-not-in-package /usr/share/applications/kde4/ksshaskpass.desktop /usr/bin/ssh-add
+ksshaskpass: desktop-command-not-in-package usr/share/applications/org.kde.ksshaskpass.desktop usr/bin/ssh-add

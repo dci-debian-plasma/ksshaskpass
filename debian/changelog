@@ -1,3 +1,17 @@
+ksshaskpass (5.1.95-0ubuntu1) UNRELEASED; urgency=medium
+
+  [ Sergey Popov ]
+  * New upstream release.
+
+  [ Harald Sitter ]
+  * Drop now useless dirs file
+  * Use pkg-kde-tools in rules
+  * Update lintian-override
+  * Bump dh compat to 9
+  * Set maintainer to Debian/Kubuntu, retain origin maintainer as XSBC field
+
+ -- Sergey Popov <sergobot256@gmail.com>  Fri, 09 Jan 2015 19:39:21 +0300
+
 ksshaskpass (0.5.3-1build2) precise; urgency=low
 
   * Rebuild for the kdebase-runtime transition
