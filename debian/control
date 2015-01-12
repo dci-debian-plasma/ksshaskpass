@@ -3,13 +3,21 @@ Section: utils
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 XSBC-Original-Maintainer: Armin Berres <armin+debian@space-based.de>
-Build-Depends: debhelper (>= 9), cmake, qtbase5-dev, extra-cmake-modules, libkf5wallet-dev, libkf5widgetsaddons-dev, libkf5coreaddons-dev, libkf5i18n-dev, pkg-kde-tools
+Build-Depends: cmake,
+               debhelper (>= 9),
+               extra-cmake-modules,
+               libkf5coreaddons-dev,
+               libkf5i18n-dev,
+               libkf5wallet-dev,
+               libkf5widgetsaddons-dev,
+               pkg-kde-tools,
+               qtbase5-dev
 Standards-Version: 3.9.5
 Homepage: http://www.kde-apps.org/content/show.php/show.php?content=50971
 
 Package: ksshaskpass
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}, openssh-client
+Depends: openssh-client, ${misc:Depends}, ${shlibs:Depends}
 Recommends: kwalletmanager
 Provides: ssh-askpass
 Description: interactively prompt users for a passphrase for ssh-add
