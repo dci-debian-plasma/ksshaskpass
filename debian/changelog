@@ -9,6 +9,7 @@ ksshaskpass (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
   * Update lintian-override
   * Bump dh compat to 9
   * Set maintainer to Debian/Kubuntu, retain origin maintainer as XSBC field
+  * override missing manpage
 
  -- Sergey Popov <sergobot256@gmail.com>  Fri, 09 Jan 2015 19:39:21 +0300
 
