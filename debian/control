@@ -12,8 +12,8 @@ Build-Depends: cmake,
                libkf5widgetsaddons-dev,
                pkg-kde-tools,
                qtbase5-dev
-Standards-Version: 3.9.5
-Homepage: http://www.kde-apps.org/content/show.php/show.php?content=50971
+Standards-Version: 3.9.6
+Homepage: https://projects.kde.org/projects/kde/workspace/ksshaskpass
 
 Package: ksshaskpass
 Architecture: any
