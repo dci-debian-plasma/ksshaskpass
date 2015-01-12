@@ -6,6 +6,7 @@ XSBC-Original-Maintainer: Armin Berres <armin+debian@space-based.de>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
+               kdoctools-dev,
                libkf5coreaddons-dev,
                libkf5i18n-dev,
                libkf5wallet-dev,
