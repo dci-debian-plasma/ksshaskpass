@@ -1,4 +1,4 @@
-ksshaskpass (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
+ksshaskpass (4:5.1.95-0ubuntu1) vivid; urgency=medium
 
   [ Sergey Popov ]
   * New upstream release.
@@ -14,7 +14,7 @@ ksshaskpass (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
   [ Jonathan Riddell ]
   * New upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 14 Jan 2015 13:25:45 +0100
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 15 Jan 2015 01:30:58 +0100
 
 ksshaskpass (0.5.3-1build2) precise; urgency=low
 
