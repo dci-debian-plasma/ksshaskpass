@@ -11,7 +11,10 @@ ksshaskpass (4:5.1.95-0ubuntu1) UNRELEASED; urgency=medium
   * Set maintainer to Debian/Kubuntu, retain origin maintainer as XSBC field
   * override missing manpage
 
- -- Sergey Popov <sergobot256@gmail.com>  Fri, 09 Jan 2015 19:39:21 +0300
+  [ Jonathan Riddell ]
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 14 Jan 2015 13:25:45 +0100
 
 ksshaskpass (0.5.3-1build2) precise; urgency=low
 
