@@ -11,7 +11,7 @@ Build-Depends: cmake,
                libkf5i18n-dev,
                libkf5wallet-dev,
                libkf5widgetsaddons-dev,
-               pkg-kde-tools,
+               pkg-kde-tools (>= 0.15.16),
                qtbase5-dev
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/ksshaskpass
