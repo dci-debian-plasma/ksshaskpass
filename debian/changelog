@@ -2,6 +2,7 @@ ksshaskpass (4:5.3.1-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.3.0).
   * New upstream release (5.3.1).
+  * New patch: manpage-add-last-modified-date (Closes: #787115)
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 04 Jun 2015 13:54:59 +0200
 
