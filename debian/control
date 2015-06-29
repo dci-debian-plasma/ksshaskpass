@@ -2,8 +2,8 @@ Source: ksshaskpass
 Section: utils
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-XSBC-Original-Maintainer: Armin Berres <armin+debian@space-based.de>
-Build-Depends: cmake,
+Uploaders: Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
                extra-cmake-modules,
                kdoctools-dev,
@@ -11,11 +11,11 @@ Build-Depends: cmake,
                libkf5i18n-dev,
                libkf5wallet-dev,
                libkf5widgetsaddons-dev,
-               pkg-kde-tools,
-               qtbase5-dev
+               pkg-kde-tools (>= 0.15.16),
+               qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.6
 Homepage: https://projects.kde.org/projects/kde/workspace/ksshaskpass
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/plasma/ksshaskpass.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/plasma/ksshaskpass.git
 Vcs-Git: git://anonscm.debian.org/pkg-kde/plasma/ksshaskpass.git
 
 Package: ksshaskpass
