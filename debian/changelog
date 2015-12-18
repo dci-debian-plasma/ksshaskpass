@@ -1,9 +1,10 @@
-ksshaskpass (4:5.4.3-0ubuntu2) UNRELEASED; urgency=medium
+ksshaskpass (4:5.5.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * Debian merge: No reminaing changes. 
   * 
+  * New upstream release Xenial
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 04 Dec 2015 22:15:57 -0800
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 18 Dec 2015 07:31:26 -0800
 
 ksshaskpass (4:5.4.3-0ubuntu1) xenial; urgency=medium
 
