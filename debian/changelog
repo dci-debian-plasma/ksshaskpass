@@ -1,3 +1,11 @@
+ksshaskpass (4:5.6.2-1~1.gbp5d51ce) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @5d51ce9fd877ceda5425c79ee0818f344960ef21 **
+
+  * Refresh patches
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 06 Apr 2016 23:50:15 +0200
+
 ksshaskpass (4:5.5.4-1) experimental; urgency=medium
 
   * New upstream release (5.5.0).
