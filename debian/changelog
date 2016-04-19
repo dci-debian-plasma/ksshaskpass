@@ -6,12 +6,6 @@ ksshaskpass (4:5.6.2-1~1.gbp5d51ce) UNRELEASED; urgency=medium
 
  -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 06 Apr 2016 23:50:15 +0200
 
-ksshaskpass (4:5.5.5-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (5.5.5).
-
- -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Mar 2016 17:30:28 +0100
-
 ksshaskpass (4:5.5.4-1) experimental; urgency=medium
 
   * New upstream release (5.5.0).
