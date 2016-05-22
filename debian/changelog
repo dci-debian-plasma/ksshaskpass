@@ -1,10 +1,6 @@
-ksshaskpass (4:5.6.4-1~1.gbpf51abe) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @f51abeb6eb1077afb11c0d097ff33c2d980c78f0 **
+ksshaskpass (4:5.6.4-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @5d51ce9fd877ceda5425c79ee0818f344960ef21 **
-
   * Refresh patches
   * Bump Standards-Version to 3.9.8
 
@@ -13,9 +9,8 @@ ksshaskpass (4:5.6.4-1~1.gbpf51abe) UNRELEASED; urgency=medium
   * New upstream release (5.5.5).
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
-  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 00:50:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 22 May 2016 10:13:32 +0200
 
 ksshaskpass (4:5.5.4-1) experimental; urgency=medium
 
