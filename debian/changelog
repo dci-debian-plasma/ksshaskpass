@@ -1,3 +1,11 @@
+ksshaskpass (4:5.7.1-1~1.gbp24292e) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @24292ed6c261f5f1438c9b95f9b57b4a80c30674 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 12 Jul 2016 18:50:09 +0200
+
 ksshaskpass (4:5.7.0-1) unstable; urgency=medium
 
   * New upstream release.
