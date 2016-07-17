@@ -6,6 +6,8 @@ executable script with the following content in ~/.kde/Autostart/
 
 /----------------
 |#!/bin/sh
+|# specify ksshaskpass as the ssh askpass program
+|export SSH_ASKPASS=/usr/bin/ksshaskpass
 |
 |ssh-add
 \----------------
