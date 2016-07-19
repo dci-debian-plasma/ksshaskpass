@@ -1,11 +1,18 @@
-ksshaskpass (4:5.7.2-1~1.gbpa836e9) UNRELEASED; urgency=medium
+ksshaskpass (4:5.7.2-1~2.gbp831c1a) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @831c1a76383c765f10055237f9ee58aad3060a3a **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @a836e90452cdf7ae8d1561100572da57c5558d2d **
 
   * UNRELEASED
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 19 Jul 2016 18:50:11 +0200
+  [ Diederik de Haas ]
+  * Added snippet to set ksshaskpass as ssh askpass program (Closes: 831600)
+  * Updated location of the autostart folder.
+
+ -- Diederik de Haas <didi.debian@cknow.org>  Tue, 19 Jul 2016 22:50:19 +0200
 
 ksshaskpass (4:5.7.0-1) unstable; urgency=medium
 
