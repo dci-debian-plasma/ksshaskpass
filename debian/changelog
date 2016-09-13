@@ -1,3 +1,11 @@
+ksshaskpass (4:5.7.5-1~1.gbpb1ea97) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @b1ea970a442764b7ced611ae3bfa4a45ba16ea30 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 13 Sep 2016 18:50:35 +0200
+
 ksshaskpass (4:5.7.4-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
