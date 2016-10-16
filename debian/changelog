@@ -1,10 +1,8 @@
-ksshaskpass (4:5.8.1-1~1.gbp62eeae) UNRELEASED; urgency=medium
+ksshaskpass (4:5.8.1-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @62eeae9f041e914deaf255d87955b5e2bb395a0f **
+  * New upstream release (5.8.1)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 18:50:22 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 16 Oct 2016 22:58:15 +0200
 
 ksshaskpass (4:5.8.0-1) unstable; urgency=medium
 
