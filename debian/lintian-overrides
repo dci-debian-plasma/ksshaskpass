@@ -1,3 +1,0 @@
-# ksshaskpass is not called directly
-ksshaskpass: desktop-command-not-in-package usr/share/applications/org.kde.ksshaskpass.desktop usr/bin/ssh-add
-ksshaskpass: binary-without-manpage usr/bin/ksshaskpass
